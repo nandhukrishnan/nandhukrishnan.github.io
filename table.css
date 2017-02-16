@@ -1,0 +1,15 @@
+table.qual{
+	border-collapse:collapse;
+}
+
+td.a{
+	border:1px solid black;
+	padding:10px;
+	text-align:left;
+}
+
+th.b{
+	border:1px solid black;
+	padding:10px;
+	text-align:left;
+}
