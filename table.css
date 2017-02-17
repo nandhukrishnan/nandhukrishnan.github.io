@@ -23,14 +23,13 @@ th.b{
 
 		td.a{
 			border:1px solid black;
-			padding:1%;
+			padding:2%;
 			text-align:left;
 		}
 
 		th.b{
 			border:1px solid black;
-			padding-left:0%;
-			padding-right:2%;
-			text-align:center;
+			padding:2%;
+			text-align:left;
 		}
 }
