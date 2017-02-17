@@ -7,8 +7,8 @@
 }
 
 body{
-	padding-left:auto;
-	padding-right:auto;
+	padding-left:10%;
+	padding-right:10%;
 }
 
 div.top_menu{
@@ -88,7 +88,27 @@ div.content{
 		margin-top:0;
 }
 
-@media only screen and (max-device-width:480px){
+div.lang{
+		float:left;
+}
+
+div.soft{
+		float:left;
+		margin-left:200px;
+}
+
+div.database{
+		float:left;
+		margin-top:5%;
+}
+
+div.os{
+		float:left;
+		margin-top:5%;
+		margin-left:340px
+}
+
+@media only screen and (max-device-width:700px){
 		
 		*{
 				margin:0;
@@ -177,6 +197,27 @@ div.content{
 				float:none;
 				font-size:17px;
 				margin-top:0;
+		}
+		
+		div.lang{
+				float:none;
+		}
+
+		div.soft{
+				float:none;
+				margin-left:0px;
+				margin-top:3%;
+		}
+
+		div.database{
+				float:none;
+				margin-top:3%;
+		}
+
+		div.os{
+				float:none;
+				margin-top:3%;
+				margin-left:0px
 		}
 
 }
