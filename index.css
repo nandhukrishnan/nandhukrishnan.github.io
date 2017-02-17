@@ -7,8 +7,8 @@
 }
 
 body{
-	padding-left:0%;
-	padding-right:0%;
+	padding-left:10%;
+	padding-right:10%;
 }
 
 div.top_menu{
@@ -118,7 +118,8 @@ div.os{
 		}
 
 		body{
-			padding:0px;
+				padding-left:0%;
+				padding-right:0%;
 		}
 
 		div.top_menu{
@@ -179,6 +180,7 @@ div.os{
 				background-color:#333; 
 				width:100%;
 				overflow:hidden;
+				max-height:35px;
 				margin-left:0;
 				float:none;
 		}
