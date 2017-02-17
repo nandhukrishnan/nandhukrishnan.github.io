@@ -62,6 +62,7 @@ div.main{
 		height:100%;
 		margin-left:0;
 		float:left;
+
 }
 
 div.left_menu{
@@ -82,7 +83,7 @@ div.content{
 		background-color:lightgray; 
 		width:75%;
 		height:100%;
-		float:left;
+		float:right;
 		font-size:17px;
 		margin-top:0;
 }
