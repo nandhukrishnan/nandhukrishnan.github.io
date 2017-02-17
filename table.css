@@ -3,13 +3,14 @@ table.qual{
 }
 
 td.a{
-	border:1px solid black;
-	padding:10px;
+	border:0.5px solid black;
+	padding:1%;
 	text-align:left;
 }
 
 th.b{
-	border:1px solid black;
-	padding:10px;
-	text-align:left;
+	border:0.5px solid black;
+	padding-left:0%;
+	padding-right:2%;
+	text-align:center;
 }
