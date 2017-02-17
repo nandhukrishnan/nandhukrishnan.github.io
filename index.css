@@ -7,14 +7,14 @@
 }
 
 body{
-	padding-left:10%;
-	padding-right:10%;
+	padding-left:auto;
+	padding-right:auto;
 }
 
 div.top_menu{
 		background-color:darkgray; 
 		width:100%;
-		height:30%;
+		height:32%;
 		margin-bottom:0;
 }
 
@@ -55,6 +55,13 @@ ul.menu_bar li a{
 ul.menu_bar li a:hover{
 		background-color:#555;
 		width:100%;
+}
+
+div.main{
+		width:100%;
+		height:100%;
+		margin-left:0;
+		float:left;
 }
 
 div.left_menu{
