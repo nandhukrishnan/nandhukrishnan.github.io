@@ -25,3 +25,34 @@ div.right{
 	margin-left:4px;
 	float:left;
 }
+
+@media only screen and (max-device-width:700px){
+	*{
+		margin:0;
+		padding-left:0;
+		outline:none;
+		border:0;
+	}
+
+	div.main{
+		border:1px solid black;
+		width:300px;
+		overflow:hidden;
+	}
+
+	div.left{
+		width:80px;
+		float:left;
+	}
+
+	img.image{
+		width:90px;
+	}
+
+	div.right{
+		margin-left:2px;
+		float:left;
+	}
+
+	
+}
