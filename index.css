@@ -6,13 +6,9 @@
 		border:0;
 }
 
-body{
-	padding-left:34%;
-}
-
 div.main{
 	border:1px solid black;
-	width:45%;
+	width:28%;
 	overflow:hidden;
 }
 
