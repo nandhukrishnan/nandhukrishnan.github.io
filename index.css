@@ -24,3 +24,12 @@ img.image{
 div.right{
 	float:left;
 }
+
+@media only screen and (max-device-width:700px){
+	
+	div.main{
+		border:1px solid black;
+		width:100%;
+		overflow:hidden;
+	}
+}
