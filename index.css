@@ -32,4 +32,12 @@ div.right{
 		width:100%;
 		overflow:hidden;
 	}
+	div.left{
+		width:20%;
+		float:left;
+	}
+	div.right{
+		float:left;
+		width:80%;
+	}
 }
