@@ -28,31 +28,29 @@ div.right{
 
 @media only screen and (max-device-width:700px){
 	*{
-		margin:0;
-		padding-left:0;
-		outline:none;
-		border:0;
+			margin:0;
+			padding-left:0;
+			outline:none;
+			border:0;
 	}
 
 	div.main{
 		border:1px solid black;
-		width:300px;
+		width:380px;
 		overflow:hidden;
 	}
 
 	div.left{
-		width:80px;
+		width:100px;
 		float:left;
 	}
 
 	img.image{
-		width:90px;
+		width:104px;
 	}
 
 	div.right{
-		margin-left:2px;
+		margin-left:4px;
 		float:left;
 	}
-
-	
 }
